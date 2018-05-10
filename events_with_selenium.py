@@ -17,4 +17,4 @@ def get_upcoming_events(url):
 
     driver.close()
 
-get_upcoming_events('https://www.python.org/events/python-events/')
+get_upcoming_events('https://www.aliexpress.com/item/best-seller-HDMI-1080P-Matrix-Switcher-40x40-support-DVI-1-0-protocol/32751070654.html')
